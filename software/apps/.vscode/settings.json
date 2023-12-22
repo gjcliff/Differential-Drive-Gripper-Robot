@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "nrf_delay.h": "c",
+        "nrf_gpio.h": "c",
+        "stdint.h": "c",
+        "nrf_802154.h": "c",
+        "stdbool.h": "c",
+        "nrf_twi_mngr.h": "c"
+    }
+}
